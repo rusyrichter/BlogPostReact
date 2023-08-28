@@ -34,10 +34,8 @@ class App extends React.Component {
                                     <AskAQuestion />
                                 </PrivateRoute>
                             } />
-                            <Route exact path='/viewquestionbyid/:questionId' element={
-                              
-                                    <ViewQuestionById />
-                               
+                            <Route exact path='/viewquestionbyid/:questionId' element={                             
+                                    <ViewQuestionById />                            
                             } />
                         </Routes>
                     </Layout>
@@ -46,5 +44,4 @@ class App extends React.Component {
         );
     }
 };
-
 export default App;
