@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogPostReact.Web", "BlogPostReact.Web\BlogPostReact.Web.csproj", "{CA607094-CED1-46AE-B1EE-0DA57F0D01F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogPostReact.Data", "BlogPostReact.Data\BlogPostReact.Data.csproj", "{CFC90ED3-90A6-4742-8628-1A0248C29B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA607094-CED1-46AE-B1EE-0DA57F0D01F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA607094-CED1-46AE-B1EE-0DA57F0D01F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA607094-CED1-46AE-B1EE-0DA57F0D01F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA607094-CED1-46AE-B1EE-0DA57F0D01F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC90ED3-90A6-4742-8628-1A0248C29B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC90ED3-90A6-4742-8628-1A0248C29B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC90ED3-90A6-4742-8628-1A0248C29B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC90ED3-90A6-4742-8628-1A0248C29B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59D36D3-B7F5-49CF-B33F-FC7C5894EF0C}
+	EndGlobalSection
+EndGlobal
